@@ -1,5 +1,4 @@
 altair==5.5.0
-apturl==0.5.2
 attrs==25.3.0
 bcrypt==4.3.0
 beautifulsoup4==4.10.0
@@ -78,7 +77,6 @@ pyqt6-tools==6.4.2.3.3
 PyQt6_sip==13.10.2
 pyRFC3339==1.1
 python-dateutil==2.9.0.post0
-python-debian==0.1.43+ubuntu1.1
 python-dotenv==1.1.1
 python-gnupg==0.4.8
 python-magic==0.4.24
